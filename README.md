@@ -1,4 +1,4 @@
 ## Workshop
 # LOUIS OH-ARONSON
-## sidekick: 
+## sidekick: HARRY
 ### SoftDev 2025-2027
